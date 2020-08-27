@@ -32,6 +32,6 @@ const [developer, setDeveloper] = useState<Developer>({
   <li>MailTrap</li>
   <li>DDD concept</li> 
   <li>Jest</li>    
-  <li>Unit test TDD</li>   
+  <li>Test TDD</li>   
 </ul>
 
