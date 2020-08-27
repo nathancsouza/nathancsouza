@@ -1,16 +1,37 @@
-### Hi there 👋
+### Nathan Souza
 
-<!--
-**nathancsouza/nathancsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<ul>
+  <li> I'm passionate about the technologies involved in <b>JavaScript</b> and <b>Typecript</b>. </li>
 
-Here are some ideas to get you started:
+  <li> Focused on acting and constantly learning <b>ReactJS</b>, <b>React Native</b> and <b>Node.js</b>. </li>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <li> I really enjoy working as a team, facing new challenges and always opening up new opportunities. </li>
+</ul>
+
+```js
+const [developer, setDeveloper] = useState<Developer>({
+   name: 'Nathan Souza',
+   interest: 'Web Developer',
+   random: [ 'I love coffee', 'Star wars fan' ],   
+   technologies: {
+        frontEnd: [ 'ReactJS', 'React Native' ],
+        backEnd: [ 'Node.js', 'Java' ],
+   },
+   languages: [ 'TypeScript', 'JavaScript' ] ,
+});
+```
+
+
+#### Experience with:
+<ul>
+  <li>Drink coffee</li>
+  <li>Figma</li>
+  <li>Amazon SES</li>
+  <li>Amazon S3</li>
+  <li>Google Cloud</li>
+  <li>MailTrap</li>
+  <li>DDD concept</li> 
+  <li>Jest</li>    
+  <li>Unit test TDD</li>   
+</ul>
+
