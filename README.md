@@ -35,3 +35,6 @@ const [developer, setDeveloper] = useState<Developer>({
   <li>Test TDD</li>   
 </ul>
 
+### Deploys
+https://gobarber.nathansouza.com/
+
