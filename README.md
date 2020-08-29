@@ -25,14 +25,16 @@ const [developer, setDeveloper] = useState<Developer>({
 #### Experience with:
 <ul>
   <li>Drink coffee</li>
-  <li>Figma</li>
   <li>Amazon SES</li>
   <li>Amazon S3</li>
   <li>Google Cloud</li>
+  <li>Netlify</li>
+  <li>Digital Ocean</li>
   <li>MailTrap</li>
   <li>DDD concept</li> 
   <li>Jest</li>    
-  <li>Test TDD</li>   
+  <li>Test TDD</li>  
+  <li>Figma</li>
 </ul>
 
 #### Deploys:
