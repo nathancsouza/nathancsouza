@@ -25,7 +25,7 @@ const [developer, setDeveloper] = useState<Developer>({
 #### Experience with:
 <ul>
   <li>Drink coffee</li>
-  <li>API REST</li>
+  <li>API RESTful</li>
   <li>Amazon SES</li>
   <li>Amazon S3</li>
   <li>Google Cloud</li>
