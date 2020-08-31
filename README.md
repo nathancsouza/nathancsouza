@@ -42,9 +42,9 @@ const [developer, setDeveloper] = useState<Developer>({
 https://gobarber.nathansouza.com/
 
 #### Small projects:
-##### ``` First html project: ```
+##### ```First html project:```
 https://sesclean.nathansouza.com/
 
-##### ``` Javascript: ```
+##### ```Javascript:```
 http://rolldice.nathansouza.com/
 
