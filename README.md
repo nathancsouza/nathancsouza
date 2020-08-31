@@ -41,3 +41,10 @@ const [developer, setDeveloper] = useState<Developer>({
 #### Deploys:
 https://gobarber.nathansouza.com/
 
+#### Small projects:
+##### ``` First html project: ```
+https://sesclean.nathansouza.com/
+
+##### ``` Javascript: ```
+http://rolldice.nathansouza.com/
+
