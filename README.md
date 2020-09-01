@@ -40,6 +40,7 @@ const [developer, setDeveloper] = useState<Developer>({
 
 #### Deploys:
 https://gobarber.nathansouza.com/
+
 https://gitexplorer.nathansouza.com/
 
 #### Small projects:
