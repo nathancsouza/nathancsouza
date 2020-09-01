@@ -43,7 +43,6 @@ https://gobarber.nathansouza.com/
 
 https://gitexplorer.nathansouza.com/
 
-#### Small projects:
 ##### ```First html BCIT/Project:```
 https://sesclean.nathansouza.com/
 
