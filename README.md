@@ -38,7 +38,7 @@ const [developer, setDeveloper] = useState<Developer>({
   <li>Figma</li>
 </ul>
 
-#### Deploys:
+#### Deploys :rocket:
 https://gobarber.nathansouza.com/
 
 https://gitexplorer.nathansouza.com/
