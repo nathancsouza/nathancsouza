@@ -54,12 +54,10 @@ const [developer, setDeveloper] = useState<Developer>({
 
 **[GitExplorer][gitexplorer_site]**
 
+  
+  **First html BCIT/Project: [SesClean][sesclean_site]**
 
-  ##### ```First html BCIT/Project:```
-  
-  **[SesClean][sesclean_site]**
-  
-  ##### ```Javascript:```
+  #### Javascript:
   
   **[RollTheDice][rolldice_site]**
   
