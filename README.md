@@ -54,7 +54,7 @@ const [developer, setDeveloper] = useState<Developer>({
 
 **[GitExplorer][gitexplorer_site]**
 
-  #### Javascript:
+  #### JavaScript:
   
   **[RollTheDice][rolldice_site]**
   
