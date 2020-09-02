@@ -46,6 +46,8 @@ const [developer, setDeveloper] = useState<Developer>({
 #### Deploys :rocket:
 https://gobarber.nathansouza.com/
 
+https://ecoleta.nathansouza.com/
+
 https://gitexplorer.nathansouza.com/
 
 ##### ```First html BCIT/Project:```
