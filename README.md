@@ -26,6 +26,8 @@ const [developer, setDeveloper] = useState<Developer>({
 <ul>
   <li>Drink coffee</li>
   <li>API RESTful</li>
+  <li>Git</li>
+  <li>Docker</li>  
   <li>Amazon SES</li>
   <li>Amazon S3</li>
   <li>Google Cloud</li>
@@ -35,6 +37,7 @@ const [developer, setDeveloper] = useState<Developer>({
   <li>DDD concept</li> 
   <li>Jest</li>    
   <li>Test TDD</li>  
+  <li>Styled Components</li>  
   <li>Figma</li>
 </ul>
 
