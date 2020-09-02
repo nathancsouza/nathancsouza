@@ -18,6 +18,8 @@ const [developer, setDeveloper] = useState<Developer>({
         backEnd: [ 'Node.js', 'Java' ],
    },
    languages: [ 'TypeScript', 'JavaScript' ] ,
+   extras: ['HTML', 'CSS'],
+   databases: ['PostgreSQL', 'MongoDB', 'Redis', 'MySQL', 'Sqlite'],
 });
 ```
 
