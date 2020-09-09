@@ -48,15 +48,17 @@ const [developer, setDeveloper] = useState<Developer>({
   
   ### Deploys :rocket:
   
-**[GoBarber][gobarber_site]**
+**[GoBarber - ReactJS][gobarber_site]**
 
-**[Ecoleta][ecoleta_site]**
+**[Ecoleta - ReactJS][ecoleta_site]**
 
-**[Git Explorer][gitexplorer_site]**
+**[Git Explorer - ReactJS][gitexplorer_site]**
+
+**[Clone Twitter UI Responsive - ReactJS][twitter_clone_site]**
 
   #### Practicing flexbox:
   
-  **[Twitter - tweets page][twitter_site]**
+  **[Twitter - tweets page - HTML | CSS][twitter_site]**
 
   #### JavaScript:
   
@@ -78,4 +80,5 @@ const [developer, setDeveloper] = useState<Developer>({
 [rolldice_site]: http://rolldice.nathansouza.com/
 [budget_site]: http://budget.nathansouza.com/
 [twitter_site]: http://twitter-tweets.nathansouza.com/
+[twitter_clone_site]: https://clone-twitter-ui.nathansouza.com/
 
