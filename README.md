@@ -1,9 +1,9 @@
 ### Nathan Souza
 
 <ul>
-  <li> I'm passionate about the technologies involved in <b>JavaScript</b> and <b>Typecript</b>. </li>
+  <li> I'm passionate about technology and development extremely <b>dedicated</b>, <b>responsible</b>, <b>committed</b> and <b>team worker</b>.</li>
 
-  <li> Focused on acting and constantly learning <b>ReactJS</b>, <b>React Native</b> and <b>Node.js</b>. </li>
+  <li> Focused on acting and constantly learning. </li>
 
   <li> I really enjoy working as a team, facing new challenges and always opening up new opportunities. </li>
 </ul>
