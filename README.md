@@ -50,8 +50,6 @@ const [developer, setDeveloper] = useState<Developer>({
   
 **[GoBarber - ReactJS][gobarber_site]**
 
-**[Ecoleta - ReactJS][ecoleta_site]**
-
 **[Git Explorer - ReactJS][gitexplorer_site]**
 
 **[Clone Twitter UI Responsive - ReactJS][twitter_clone_site]**
@@ -65,8 +63,6 @@ const [developer, setDeveloper] = useState<Developer>({
   **[Roll the dice - Game][rolldice_site]**
   
   **[Budget][budget_site]**
-  
-  **First html BCIT/Project: [SesClean][sesclean_site]**
 
 </h4>
 
@@ -74,9 +70,7 @@ const [developer, setDeveloper] = useState<Developer>({
 
 [backend_site]: https://github.com/nathancsouza/ecoleta-web/
 [gobarber_site]: https://gobarber.nathansouza.com/
-[ecoleta_site]: https://ecoleta.nathansouza.com/
 [gitexplorer_site]: https://gitexplorer.nathansouza.com/
-[sesclean_site]: https://sesclean.nathansouza.com/
 [rolldice_site]: http://rolldice.nathansouza.com/
 [budget_site]: http://budget.nathansouza.com/
 [twitter_site]: http://twitter-tweets.nathansouza.com/
